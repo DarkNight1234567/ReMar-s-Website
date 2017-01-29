@@ -1,0 +1,27 @@
+h1 {
+ font-size: 50px;
+ color:blue;
+}
+
+a:hover{
+  color:blue;
+  background-color: black;
+}
+
+#k {
+  width:300px;
+  border:3px dashed;
+  margin:10px;
+  color:blue;
+}
+
+.menu li {
+  display:inline;
+  margin: 10px;
+}
+
+.menu a {
+  display:inline;
+  margin: 10px;
+  backround-color: black
+ }
